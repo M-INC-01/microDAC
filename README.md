@@ -1,10 +1,13 @@
 ## microDAC — White Paper Tecnico
-Progetto: microDAC  
-Azienda: [M.INC.](https://huggingface.co/MINC01)  
-Versione: 1.0  
-Autore: [Mattimax](https://huggingface.co/Mattimax)  
-Data: Ottobre 2025  
 
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Mattimax-brightgreen)](https://huggingface.co/Mattimax)
+[![M.INC](https://img.shields.io/badge/M.INC-Official-blue)](https://huggingface.co/MINC01)
+
+Autore: [Mattia / Mattimax](https://huggingface.co/Mattimax)  
+Sito aziendale: [M.INC](https://sites.google.com/view/mattimax-site/home-page)
+
+---
+![microDAC Logo](https://raw.githubusercontent.com/M-INC-01/microDAC/main/microDAC_Logo.png)
 ---
 
 1. Introduzione
