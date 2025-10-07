@@ -165,5 +165,3 @@ microDAC è progettato per essere facilmente adattabile tramite:
 microDAC rappresenta una soluzione compatta, efficiente e specializzata per la generazione conversazionale in italiano.  
 La sua architettura è pensata per essere estendibile, adattabile e facilmente integrabile in pipeline industriali.  
 Ogni componente — dal tokenizer alla loss — è progettato per massimizzare la qualità linguistica e la robustezza tecnica.
-
-Per estensioni, deployment o integrazione in sistemi M.INC., consultare il team AI interno o il repository tecnico associato.
